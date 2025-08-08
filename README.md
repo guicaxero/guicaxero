@@ -15,7 +15,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-**Linguagens:** JavaScript (React, Node.js), TypeScript, Python, Java
+**Linguagens:** JavaScript (React, Node.js), TypeScript, Python, Java  
 **Banco de Dados:** MySQL, MongoDB, Redis  
 **Outros:** Git, Vitest, Docker
 
