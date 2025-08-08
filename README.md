@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme Caxéro — Desenvolvedor FullStack! 👋
 
-<!--
-**guicaxero/guicaxero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 **Formado em Análise e Desenvolvimento de Sistemas** pela Universidade Veiga de Almeida  
+📍 Moro no Rio de Janeiro, Brasil  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mim
+
+📚 Atualmente estudando React & Next avançado, e backend com Node.  
+🎯 Interesse especial em Frontend, desenvolvendo aplicações robustas, escaláveis e orientadas a princípios como **SOLID**, **Clean Architecture** e **componentização eficiente**.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+**Linguagens:** JavaScript (React, Node.js), TypeScript, Python, Java
+**Banco de Dados:** MySQL, MongoDB, Redis  
+**Outros:** Git, Vitest, Docker
+
+---
+
+## 🤝 Vamos Conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/guicaxero)  
+📧 Email: guilhermecaxero@gmail.com
