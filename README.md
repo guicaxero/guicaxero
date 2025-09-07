@@ -6,6 +6,12 @@
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guicaxero&layout=compact&theme=radical)
+
+---
+
 ## 🧠 Sobre mim
 
 📚 Atualmente estudando React & Next avançado, e backend com Node.  
