@@ -30,4 +30,5 @@
 ## 🤝 Vamos Conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/guicaxero)  
-📧 Email: guilhermecaxero@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilhermecaxero@gmail.com)
+
