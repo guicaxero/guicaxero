@@ -18,7 +18,7 @@ Sou desenvolvedor de software com forte especialização em **Frontend**, atuand
 
 Tenho domínio de boas práticas como **SOLID**, **Clean Architecture** e **componentização eficiente**, com foco em manutenibilidade, performance e experiência do usuário.
 
-No **Backend**, possuo proficiência em **Node.js**, **Python** e **Java**, o que me permite atuar de forma integrada entre frontend e backend quando necessário.
+No **Backend**, possuo proficiência em **Java**, **Python** e **NodeJs**, o que me permite atuar de forma integrada entre frontend e backend quando necessário.
 
 
 ---
@@ -26,7 +26,7 @@ No **Backend**, possuo proficiência em **Node.js**, **Python** e **Java**, o qu
 ## 🛠️ Tecnologias & Ferramentas
 
 **Frontend:** React, Next.js, TypeScript, JavaScript  
-**Backend:** Node.js, Python, Java  
+**Backend:** Java, Python, NodeJs
 **Banco de Dados:** MySQL, PostgreSQL, MongoDB, Redis  
 **Outros:** Git, Vitest, Docker
 
