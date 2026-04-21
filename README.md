@@ -2,7 +2,7 @@
 
 
 🎓 **Formado em Análise e Desenvolvimento de Sistemas** pela Universidade Veiga de Almeida  
-📍 Moro no Rio de Janeiro, Brasil  
+📍    Moro no Rio de Janeiro, Brasil  
 
 ---
 
@@ -26,7 +26,7 @@ No **Backend**, possuo proficiência em **Java**, **Python** e **NodeJs**, o que
 ## 🛠️ Tecnologias & Ferramentas
 
 **Frontend:** React, Next.js, TypeScript, JavaScript  
-**Backend:** Java, Python, NodeJs
+**Backend:** Java, Python, NodeJs  
 **Banco de Dados:** MySQL, PostgreSQL, MongoDB, Redis  
 **Outros:** Git, Vitest, Docker
 
