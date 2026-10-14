@@ -71,5 +71,5 @@ que conecta o mundo do mestre ao portal por HTTPS de saída, sem abrir portas.
 
 ## 📫 Contato
 
-[![Gmail](https://img.shields.io/badge/caxeropl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caxeropl@gmail.com)
+[![Gmail](https://img.shields.io/badge/guilhermecaxero@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caxeropl@gmail.com)
 [![GitHub](https://img.shields.io/badge/guicaxero-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guicaxero)
